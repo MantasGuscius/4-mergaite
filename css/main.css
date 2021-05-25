@@ -1,0 +1,16 @@
+body  {
+    display: inline-block;
+    background-color: red;
+}
+main {
+    background-color: blue;
+}
+h1{
+    background-color: pink;
+}
+.logo {
+    width: 20px; height: 20px;
+}
+div {
+    background-color: aqua;
+}
